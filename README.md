@@ -22,9 +22,9 @@ Building projects, solving problems, and learning something new every day.
 
 ### Database & Tools
 - SQLite
+- DBMS
 - Git
 - GitHub
-- ## 🚀 Currently Building
 
 ### 🎓 StudentHub
 
