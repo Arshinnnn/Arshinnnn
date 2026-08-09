@@ -1,33 +1,32 @@
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ARSHINNNN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 # Arshinnnn
 
-### Python Developer • Problem Solver • AI Explorer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer;Problem+Solver;AI+Explorer;Building+StudentHub)](https://git.io/typing-svg)
 
 I'm a BCA student focused on building real software, improving my problem-solving skills, and turning what I learn into working projects.
 
-Building projects, solving problems, and learning something new every day.
+> **Building quietly. Becoming capable.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C
-- Java (Basics)
+**Languages**
 
-### Web & Backend
-- Flask
-- HTML
-- CSS
+`Python` `C` `Java Basics`
 
-### Database
-- SQLite
-- DBMS
+**Web & Backend**
 
-### Tools
-- Git
-- GitHub
-- VS Code
+`Flask` `HTML` `CSS`
+
+**Database**
+
+`SQLite` `DBMS`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
@@ -44,24 +43,21 @@ A Python + Flask student productivity platform.
 - 🗄️ SQLite database
 - 🔧 CRUD operations
 
-More features coming.
+**Next:** smarter features and AI integration.
 
 ---
 
-## 🧠 Currently Learning
+## 🤖 AI Direction
 
+Exploring how AI can turn ordinary Python applications into smarter tools.
+
+Currently learning:
+
+- AI / Machine Learning
 - Advanced Python
-- Data Structures & Algorithms
 - Backend Development
 - DBMS
 - Java Fundamentals
-- AI / Machine Learning
-
----
-
-## 🤖 AI
-
-Exploring how AI can turn Python projects into smarter tools.
 
 ---
 
@@ -69,16 +65,11 @@ Exploring how AI can turn Python projects into smarter tools.
 
 Practicing Data Structures & Algorithms through:
 
-- LeetCode
-- HackerRank
-- C
-- Python
+`LeetCode` • `HackerRank`
 
----
+Focused on:
 
-## 🎯 Direction
-
-Building quietly. Becoming capable.
+`Logic` → `Data Structures` → `Algorithms` → `Problem Solving`
 
 ---
 
@@ -88,8 +79,16 @@ Building quietly. Becoming capable.
 
 ---
 
+## 🎯 Direction
+
+Building things that make me better.
+
+---
+
+<p align="center">
+
 `Python` • `Flask` • `C` • `Java` • `DBMS` • `DSA` • `AI`
 
+</p>
 
-
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer)
