@@ -1,14 +1,14 @@
 # Arshinnnn
 
-### Python Developer • Problem Solver • Building in Public
+### Python Developer • Problem Solver • AI Explorer
 
 I'm a BCA student focused on building real software, improving my problem-solving skills, and turning what I learn into working projects.
 
-### Python Developer | DSA | AI Explorer
-
 Building projects, solving problems, and learning something new every day.
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 - Python
@@ -20,11 +20,18 @@ Building projects, solving problems, and learning something new every day.
 - HTML
 - CSS
 
-### Database & Tools
+### Database
 - SQLite
 - DBMS
+
+### Tools
 - Git
 - GitHub
+- VS Code
+
+---
+
+## 🚀 Currently Building
 
 ### 🎓 StudentHub
 
@@ -33,25 +40,56 @@ A Python + Flask student productivity platform.
 - 📝 Notes management
 - 📚 Study Planner
 - 💰 Expense Tracker
-- 📊 Dashboard
+- 📊 Unified Dashboard
 - 🗄️ SQLite database
 - 🔧 CRUD operations
 
 More features coming.
+
+---
 
 ## 🧠 Currently Learning
 
 - Advanced Python
 - Data Structures & Algorithms
 - Backend Development
+- DBMS
 - Java Fundamentals
 - AI / Machine Learning
 
-## 🎯 Goal
-
-Building quietly. Becoming capable.
 ---
 
-### Building. Learning. Improving.
+## 🤖 AI
 
-`Python` • `Flask` • `C` • `Java` • `DSA` • `AI`
+Exploring how AI can turn Python projects into smarter tools.
+
+---
+
+## 🧩 Problem Solving
+
+Practicing Data Structures & Algorithms through:
+
+- LeetCode
+- HackerRank
+- C
+- Python
+
+---
+
+## 🎯 Direction
+
+Building quietly. Becoming capable.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshinnnn&show_icons=true&hide_border=true&rank_icon=github)
+
+---
+
+`Python` • `Flask` • `C` • `Java` • `DBMS` • `DSA` • `AI`
+
+
+
+
